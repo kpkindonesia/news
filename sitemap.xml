@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://kpkindonesia.github.io/news/</loc>
-    <lastmod>2026-03-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
+    <loc>https://kpkindonesia.github.io/news/Banyak-yang-tidak-sadar-kenapa-selalu-kalah-saat-bermain-slot-padahal-ada-cara-mudah-untuk-mengatasinya-dan-mencoba-kembali-dengan-lebih-terarah.html</loc>
 
-  <url>
-    <loc>https://kpkindonesia.github.io/news/Panduan-Strategi-Menang-di-Beragam-Permainan-Slot-Paling-Populer.html</loc>
-    <lastmod>2026-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+    <news:news>
+      <news:publication>
+        <news:name>KPK Indonesia News</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-22T10:00:00+07:00</news:publication_date>
+      <news:title>Banyak yang tidak sadar kenapa selalu kalah saat bermain slot padahal ada cara mudah untuk mengatasinya dan mencoba kembali dengan lebih terarah</news:title>
+    </news:news>
 
-    <url>
-    <loc>https://kpkindonesia.github.io/news/Perkembangan-Slot-Online-di-Era-Digital-dan-Dampaknya-pada-Dunia-Hiburan-Online.html</loc>
-    <lastmod>2026-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://image.solidteam.link/uploads/solidtoto-09.webp</image:loc>
+    </image:image>
   </url>
 
 </urlset>
