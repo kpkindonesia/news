@@ -3,6 +3,7 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
+  <!-- Artikel 1 -->
   <url>
     <loc>https://kpkindonesia.github.io/news/Banyak-yang-tidak-sadar-kenapa-selalu-kalah-saat-bermain-slot-padahal-ada-cara-mudah-untuk-mengatasinya-dan-mencoba-kembali-dengan-lebih-terarah.html</loc>
 
@@ -17,6 +18,24 @@
 
     <image:image>
       <image:loc>https://image.solidteam.link/uploads/solidtoto-09.webp</image:loc>
+    </image:image>
+  </url>
+
+  <!-- Artikel 2 -->
+  <url>
+    <loc>https://kpkindonesia.github.io/news/Cara-Bermain-Slot-dengan-Pola-Teratur-Bikin-Permainan-Lebih-Tenang-dan-Terarah.html</loc>
+
+    <news:news>
+      <news:publication>
+        <news:name>KPK Indonesia News</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T10:00:00+07:00</news:publication_date>
+      <news:title>Cara Bermain Slot dengan Pola Teratur, Bikin Permainan Lebih Tenang dan Terarah</news:title>
+    </news:news>
+
+    <image:image>
+      <image:loc>https://image.solidteam.link/uploads/solidtoto-20.webp</image:loc>
     </image:image>
   </url>
 
